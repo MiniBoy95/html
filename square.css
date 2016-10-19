@@ -1,0 +1,65 @@
+.square {
+ width: 900px; 
+ height: 900px; 
+ background: red; 
+ border-radius: 900px;
+ position: relative;
+}
+.squarre:hover{
+	background:black;
+	
+}
+.left{
+width: 100px;
+height: 140px;
+background: black;
+border-radius: 100px;
+position: absolute;
+left: 176px;
+bottom: 300px;
+background: white;
+}
+.right{
+width: 140px;
+height: 140px;
+background: white;
+border-radius: 100px;
+position: absolute;
+left: 579px;
+bottom: 315px;
+background: white;
+}
+.left2{
+	width: 70px;
+height: 70px;
+background: black;
+border-radius: 100px;
+position: absolute;
+left: 613px;
+bottom: 347px;
+}
+.right2{
+
+width: 70px;
+height: 70px;
+background: black;
+border-radius: 100px;
+position: absolute;
+left: 207px;
+bottom: 346px;
+
+}
+.mouse{
+background:white;
+width: 445px;
+height: 46px;
+position: absolute;
+left: 215px;
+bottom: 128px;
+border-radius: 30px;
+
+
+}
+
+
+
